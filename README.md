@@ -1,244 +1,158 @@
-<!-- ════════════════════════════════════════════════════════════ -->
-<!--  ATUL KUMAR CHOUDHARY · Full Stack AI Engineer              -->
-<!-- ════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
-
-<br><br>
-
-# &nbsp; Atul Kumar Choudhary &nbsp;
-
-<samp>Full Stack AI Engineer · Building intelligent systems that scale</samp>
-
-<br><br>
-
-[![Email](https://img.shields.io/badge/dev@atulchoudhary.com-24292f?style=flat-square&logo=gmail&logoColor=8b949e)](mailto:dev@atulchoudhary.com)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square&logo=linkedin&logoColor=8b949e)](https://linkedin.com/in/atulkumarchoudhary)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-24292f?style=flat-square&logo=github&logoColor=8b949e)](https://github.com/atul-kumar-choudhary)
+<!-- Terminal Header Mockup -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🔴%20🟡%20🟢%20%20%20atul-kumar-choudhary%20/%20README.md&fontSize=14&fontColor=00ffcc&fontAlignY=50&fontAlign=10&descAlign=90" width="100%" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=atul-kumar-choudhary&style=flat-square&color=161b22&label=views&labelColor=0d1117" />
-&nbsp;
-[![Followers](https://img.shields.io/github/followers/atul-kumar-choudhary?style=flat-square&color=161b22&labelColor=0d1117&label=followers)](https://github.com/atul-kumar-choudhary?tab=followers)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/atul-kumar-choudhary?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=161b22&labelColor=0d1117&label=stars)
+<h1 align="left">
+  <samp><span style="color:#00ffcc">❯</span> Atul Kumar Choudhary — Full Stack AI Engineer</samp>
+</h1>
 
-</div>
+<p align="left">
+  <samp>Designing and engineering intelligent full-stack applications from concept to deployment. I pair modern reactive frontends with resilient AI backends (FastAPI, LLMs, Vector retrieval pipelines). Driven by curiosity, fast feedback cycles, and craft.</samp>
+</p>
+
+<p align="left">
+  <a href="mailto:dev@atulchoudhary.com"><img src="https://img.shields.io/badge/Email-dev@atulchoudhary.com-0d1117?style=flat-square&logo=gmail&logoColor=00ffcc&color=0d1117&labelColor=161b22" /></a>
+  <a href="https://linkedin.com/in/atulkumarchoudhary"><img src="https://img.shields.io/badge/LinkedIn-atulkumarchoudhary-0d1117?style=flat-square&logo=linkedin&logoColor=00ffcc&color=0d1117&labelColor=161b22" /></a>
+  <a href="https://github.com/atul-kumar-choudhary"><img src="https://img.shields.io/badge/GitHub-atul--kumar--choudhary-0d1117?style=flat-square&logo=github&logoColor=00ffcc&color=0d1117&labelColor=161b22" /></a>
+</p>
 
 <br>
 
-<!-- ─────────────────────── ABOUT ─────────────────────── -->
+<table width="100%">
+  <tr>
+    <td width="33%">
+      <samp>
+        <span style="color:#8b949e">FULL-STACK AI PROJECTS</span><br>
+        <b style="color:#e6edf3; font-size:1.2em">5+ Shipped</b><br>
+        <span style="color:#00ffcc">End-to-end Live Apps</span>
+      </samp>
+    </td>
+    <td width="33%">
+      <samp>
+        <span style="color:#8b949e">WEEKLY CADENCE</span><br>
+        <b style="color:#e6edf3; font-size:1.2em">30+ Commits</b><br>
+        <span style="color:#e6edf3">Consistent Git Strikes</span>
+      </samp>
+    </td>
+    <td width="34%">
+      <samp>
+        <span style="color:#8b949e">OPEN SOURCE PRO</span><br>
+        <b style="color:#e6edf3; font-size:1.2em">10+ Merged</b><br>
+        <span style="color:#e6edf3">LoopHole & System Ecosystem</span>
+      </samp>
+    </td>
+  </tr>
+</table>
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<p align="left">
+  <samp>
+    <span style="color:#00ffcc">▶ CORE FOCUS:</span> Agent Workflows • RAG Architectures • Full-Stack TypeScript<br>
+    <span style="color:#8b949e">▶ WORK STATUS:</span> <b style="color:#00ffcc">Available for US/Remote Full-Time Roles</b>
+  </samp>
+</p>
 
-### &nbsp;`About`
+<!-- Terminal JSON Block -->
+<div align="left">
 
-I design and ship production-grade AI systems — from LLM-powered backends
-and multi-agent pipelines to high-performance frontends serving real users.
-I care about clean architecture, fast iteration, and engineering that
-compounds over time.
-
-```js
-const atul = {
-  role: "Full Stack AI Engineer",
-  location: "India · UTC+5:30",
-  focus: [
-    "AI/ML Systems & LLM Integration",
-    "Distributed Backend Architecture",
-    "Cloud-Native Infrastructure",
-    "Frontend Engineering at Scale",
+```json
+{
+  "engineer": "Atul Kumar Choudhary",
+  "role": "Full Stack AI Engineer",
+  "mindset": "Build real products, measure with quantitative evals, iterate relentlessly.",
+  "technical_strengths": [
+    "Full-stack reactivity with React, Next.js, TypeScript, Tailwind",
+    "Production LLM integration via FastAPI, LangChain, OpenAI & Claude APIs",
+    "Vector search orchestration using Pinecone, ChromaDB, and hybrid keyword/semantic pipelines",
+    "Containerization and scalable microservices deployed via GitHub Actions"
   ],
-  currently: "Building intelligent full-stack applications",
-  open_to: ["Full-Time", "Consulting", "Open Source"],
-};
+  "open_to": ["Full-Time Engineer", "Applied AI Engineer", "Full-Stack AI"]
+}
 ```
 
-</td>
-<td valign="top" width="50%">
-
-### &nbsp;`Stats`
+</div>
 
 <br>
 
-<div align="center">
+<h2 align="left">
+  <samp><span style="color:#00ffcc">⬢</span> Featured Full-Stack AI Projects</samp>
+</h2>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=atul-kumar-choudhary&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58&stroke=21262d" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" width="100%" />
-
-</div>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><samp>🤖 AI Agentic Workflow Runner</samp></h3>
+      <samp>
+        Autonomous multi-agent execution orchestration. Generates step-by-step DAG task plans, executes self-correcting code analysis, and streams contextual insights.<br><br>
+        <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+        <img src="https://img.shields.io/badge/LangChain-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+        <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+      </samp>
+    </td>
+    <td width="50%" valign="top">
+      <h3><samp>🔍 Enterprise RAG Search</samp></h3>
+      <samp>
+        Enterprise documentation hybrid search engine. Combines BM25 keyword matching with dense OpenAI text embeddings in Pinecone, cutting hallucination rates.<br><br>
+        <img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+        <img src="https://img.shields.io/badge/OpenAI_API-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&color=00ffcc&labelColor=161b22" />
+      </samp>
+    </td>
+  </tr>
 </table>
 
 <br>
 
-<!-- ─────────────────────── TECH STACK ─────────────────────── -->
+<h2 align="left">
+  <samp><span style="color:#00ffcc">⬢</span> Technical Stack & Applied AI Arsenal</samp>
+</h2>
 
-<details open>
-<summary><h3>&nbsp;⚙&nbsp; Technical Arsenal</h3></summary>
-
-<br>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40" /><br>
-<samp>TypeScript</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=py&theme=dark" width="40" /><br>
-<samp>Python</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" /><br>
-<samp>Go</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="40" /><br>
-<samp>Rust</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40" /><br>
-<samp>C++</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="40" /><br>
-<samp>React</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="40" /><br>
-<samp>Next.js</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="40" /><br>
-<samp>Tailwind</samp>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="40" /><br>
-<samp>Node.js</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="40" /><br>
-<samp>FastAPI</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=graphql&theme=dark" width="40" /><br>
-<samp>GraphQL</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="40" /><br>
-<samp>PyTorch</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="40" /><br>
-<samp>TensorFlow</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="40" /><br>
-<samp>PostgreSQL</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=redis&theme=dark" width="40" /><br>
-<samp>Redis</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="40" /><br>
-<samp>MongoDB</samp>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="40" /><br>
-<samp>AWS</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="40" /><br>
-<samp>Docker</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="40" /><br>
-<samp>Kubernetes</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="40" /><br>
-<samp>Terraform</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="40" /><br>
-<samp>CI/CD</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="40" /><br>
-<samp>Kafka</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" /><br>
-<samp>Linux</samp>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" /><br>
-<samp>Git</samp>
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <samp><span style="color:#8b949e">🧠 AI & LLM Engineering</span></samp><br>
+      <img src="https://img.shields.io/badge/OpenAI_/_Anthropic_APIs-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/LangChain_&_LlamaIndex-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/Pinecone_&_ChromaDB-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/PyTorch_Fundamentals-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+    </td>
+    <td width="50%" valign="top">
+      <samp><span style="color:#8b949e">⚛️ Frontend & Reactive UI</span></samp><br>
+      <img src="https://img.shields.io/badge/Next.js_App_Router-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/TypeScript_Strict-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/React_Server_Components-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS_&_Shadcn-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/Zustand_&_React_Query-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <samp><span style="color:#8b949e">⚙️ Backend & Data Systems</span></samp><br>
+      <img src="https://img.shields.io/badge/Python_/_FastAPI-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Node.js_/_Express-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL_&_Prisma-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/Redis_Caching-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/REST_&_GraphQL-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+    </td>
+    <td width="50%" valign="top">
+      <samp><span style="color:#8b949e">🚀 DevOps, Cloud & Tooling</span></samp><br>
+      <img src="https://img.shields.io/badge/Docker_&_Compose-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/GitHub_Actions_CI/CD-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/Vercel_Platform-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+      <img src="https://img.shields.io/badge/AWS_(S3,_Lambda,_EC2)-0d1117?style=flat-square&color=161b22&labelColor=0d1117" /><br>
+      <img src="https://img.shields.io/badge/Git_Workflows_&_Linux-0d1117?style=flat-square&color=161b22&labelColor=0d1117" />
+    </td>
+  </tr>
 </table>
 
 <br>
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=langchain&logoColor=1C3C3C)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=e6edf3)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-
-</div>
-
-</details>
-
-<br>
-
-<!-- ─────────────────────── ACTIVITY ─────────────────────── -->
-
-<details open>
-<summary><h3>&nbsp;📊&nbsp; Contribution Activity</h3></summary>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-kumar-choudhary&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=58a6ff15&hide_border=true&custom_title=" width="100%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul-kumar-choudhary&theme=github_dark" width="100%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=atul-kumar-choudhary&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul-kumar-choudhary&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=atul-kumar-choudhary&theme=github_dark&utcOffset=5.5" width="32%" />
-
-</div>
-
-</details>
-
-<br>
-
-<!-- ─────────────────────── SNAKE ─────────────────────── -->
-
-<div align="center">
+<h2 align="left">
+  <samp><span style="color:#00ffcc">⬢</span> GitHub Contributions & Continuous Momentum</samp>
+</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg" />
@@ -246,60 +160,15 @@ const atul = {
   <img alt="contribution snake" src="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-</div>
-
-<br>
-
-<!-- ─────────────────────── 3D CONTRIB ─────────────────────── -->
-
-<details>
-<summary><h3>&nbsp;🌐&nbsp; 3D Contribution Map</h3></summary>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contributions" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</picture>
-</div>
-
-</details>
-
-<br>
-
-<!-- ─────────────────────── TROPHIES ─────────────────────── -->
-
-<details>
-<summary><h3>&nbsp;🏆&nbsp; Trophies</h3></summary>
-
-<br>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=atul-kumar-choudhary&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%" />
-</div>
-
-</details>
-
-<br>
-
-<!-- ─────────────────────── FOOTER ─────────────────────── -->
-
-<div align="center">
-
----
-
-<samp>Let's build something impactful together.</samp>
-
 <br><br>
 
-[![Email](https://img.shields.io/badge/dev@atulchoudhary.com-161b22?style=for-the-badge&logo=gmail&logoColor=8b949e&labelColor=0d1117)](mailto:dev@atulchoudhary.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=8b949e&labelColor=0d1117)](https://linkedin.com/in/atulkumarchoudhary)
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=footer" width="100%" />
+<div align="left">
+  <samp>
+    <span style="color:#00ffcc">▶ READY FOR DAY 1 IMPACT</span><br>
+    <h2>Looking for a Full Stack AI Engineer?</h2>
+    I ship clean code quickly, communicate transparently, and bridge the gap between reactive modern frontends and powerful AI backends. Let's build something extraordinary together.<br><br>
+    <a href="mailto:dev@atulchoudhary.com"><img src="https://img.shields.io/badge/Email_Me_at_dev@atulchoudhary.com-00ffcc?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=00ffcc&color=00ffcc" /></a>
+  </samp>
+</div>
 
 </div>
