@@ -1,54 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Atul%20Kumar%20Choudhary&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20AI%20Engineer&descSize=16&descAlignY=65" width="100%" />
+
+# Atul Kumar Choudhary
+
+**Full Stack AI Engineer**
+
+<br>
+
+[![Email](https://img.shields.io/badge/dev@atulchoudhary.com-000?style=flat&logo=gmail&logoColor=999)](mailto:dev@atulchoudhary.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=999)](https://linkedin.com/in/atulkumarchoudhary)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=999)](https://github.com/atul-kumar-choudhary)
+
 </div>
 
-<div align="center">
-  <a href="mailto:dev@atulchoudhary.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/atulkumarchoudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/atul-kumar-choudhary">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+---
 
-<br />
+I build production-grade, AI-driven software — from LLM-powered backends to polished user interfaces. I care about clean architecture, fast iteration, and systems that scale without drama.
+
+**What I work with:**
+
+`TypeScript` · `Python` · `Go` · `React` · `Next.js` · `Node.js` · `FastAPI` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes` · `AWS`
+
+---
 
 <div align="center">
-  <em>Engineering elegant, high-performance, and scalable software solutions.</em>
-</div>
-
-<br />
-
-### ✦ About
-
-I am a Full Stack AI Engineer focused on building robust and modern AI-driven applications. I specialize in scalable architecture, LLM integrations, frontend performance, and cloud-native deployments. My goal is to transform complex problems into seamless, intuitive experiences through clean code and thoughtful system design.
-
-### ✦ Expertise
-
-- **Languages:** TypeScript, Python, Go, C++, Rust
-- **Frontend:** React, Next.js, Vue.js, Tailwind CSS
-- **Backend:** Node.js, Express, FastAPI, gRPC
-- **Infrastructure:** Docker, Kubernetes, AWS, CI/CD
-- **Data:** PostgreSQL, MongoDB, Redis, Kafka
-
-### ✦ Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar-choudhary&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul-kumar-choudhary&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <p><em>Let's build something extraordinary together.</em></p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=666&text_color=999&ring_color=444&include_all_commits=true&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=aaa&text_color=555&ring_color=ccc&include_all_commits=true&count_private=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=666&text_color=999&ring_color=444&include_all_commits=true&count_private=true" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=atul-kumar-choudhary&hide_border=true&background=00000000&ring=444&fire=999&currStreakLabel=999&sideLabels=666&currStreakNum=ccc&sideNums=ccc&dates=555" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=atul-kumar-choudhary&hide_border=true&background=00000000&ring=ccc&fire=555&currStreakLabel=555&sideLabels=aaa&currStreakNum=333&sideNums=333&dates=aaa" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=atul-kumar-choudhary&hide_border=true&background=00000000&ring=444&fire=999&currStreakLabel=999&sideLabels=666&currStreakNum=ccc&sideNums=ccc&dates=555" />
+  </picture>
 </div>
