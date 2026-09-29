@@ -20,7 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           # Replace with your actual blog RSS feed URL
-          feed_list: "https://dev.to/feed/metastack843,https://medium.com/feed/@metastack843"
+          feed_list: "https://dev.to/feed/atul-kumar-choudhary,https://medium.com/feed/@atul-kumar-choudhary"
           max_post_count: 5
           template: "- $newline🔥 [$title]($url) — *$date*"
           date_format: "MMM DD, YYYY"
