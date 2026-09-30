@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Terminal Header Mockup -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header&text=🔴%20🟡%20🟢%20%20%20atul-kumar-choudhary%20/%20README.md&fontSize=14&fontColor=00ffcc&fontAlignY=50&fontAlign=10&descAlign=90" width="100%" />
-
-<br>
-
 <h1 align="left">
   <samp><span style="color:#00ffcc">❯</span> Atul Kumar Choudhary — Full Stack AI Engineer</samp>
 </h1>
