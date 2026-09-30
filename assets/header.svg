@@ -38,8 +38,8 @@
     <text x="432.5" y="183" font-size="12" font-weight="700" fill="#e2e8f0" text-anchor="middle" class="font-sans">Next.js</text>
 
     <!-- Stats on Right -->
-    <text x="750" y="115" class="font-sans" font-size="42" font-weight="800" fill="#38bdf8" text-anchor="end">3.5K</text>
+    <text x="750" y="115" class="font-sans" font-size="42" font-weight="800" fill="#38bdf8" text-anchor="end">8</text>
     <text x="750" y="140" class="font-mono" font-size="12" font-weight="700" fill="#64748b" text-anchor="end" letter-spacing="2">TOTAL STARS</text>
 
-    <text x="790" y="205" class="font-mono" font-size="10" fill="#334155" text-anchor="end">custom generated</text>
+    <text x="790" y="205" class="font-mono" font-size="10" fill="#334155" text-anchor="end">custom generated • live</text>
 </svg>

@@ -19,14 +19,14 @@
     <rect x="20" y="20" width="800" height="220" rx="16" fill="url(#bgGlow)" stroke="url(#borderGrad)" stroke-width="1.5"/>
     
     <text x="45" y="65" class="font-sans" font-size="28" font-weight="900" fill="#f8fafc">Profile Signal</text>
-    <text x="45" y="85" class="font-sans" font-size="14" font-weight="600" fill="#94a3b8">Live GitHub stats styled from scratch</text>
+    <text x="45" y="85" class="font-sans" font-size="14" font-weight="600" fill="#94a3b8">Live GitHub stats fetched dynamically</text>
     
     <circle cx="800" cy="40" r="4" fill="#38bdf8"/>
 
     <!-- Stat 1 -->
     <rect x="45" y="110" width="170" height="100" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
     <text x="65" y="140" class="font-mono" font-size="12" font-weight="600" fill="#f8fafc">Stars</text>
-    <text x="65" y="175" class="font-sans" font-size="34" font-weight="800" fill="#38bdf8">3.5K</text>
+    <text x="65" y="175" class="font-sans" font-size="34" font-weight="800" fill="#38bdf8">8</text>
     <rect x="65" y="190" width="130" height="6" rx="3" fill="#1e293b"/>
     <rect x="65" y="190" width="110" height="6" rx="3" fill="#38bdf8"/>
 
@@ -40,16 +40,16 @@
     <!-- Stat 3 -->
     <rect x="425" y="110" width="170" height="100" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
     <text x="445" y="140" class="font-mono" font-size="12" font-weight="600" fill="#f8fafc">Repos</text>
-    <text x="445" y="175" class="font-sans" font-size="34" font-weight="800" fill="#c084fc">42</text>
+    <text x="445" y="175" class="font-sans" font-size="34" font-weight="800" fill="#c084fc">9</text>
     <rect x="445" y="190" width="130" height="6" rx="3" fill="#1e293b"/>
     <rect x="445" y="190" width="60" height="6" rx="3" fill="#c084fc"/>
 
     <!-- Stat 4 -->
     <rect x="615" y="110" width="170" height="100" rx="12" fill="#0f172a" stroke="#1e293b" stroke-width="1.5"/>
     <text x="635" y="140" class="font-mono" font-size="12" font-weight="600" fill="#f8fafc">Followers</text>
-    <text x="635" y="175" class="font-sans" font-size="34" font-weight="800" fill="#10b981">1.2K</text>
+    <text x="635" y="175" class="font-sans" font-size="34" font-weight="800" fill="#10b981">0</text>
     <rect x="635" y="190" width="130" height="6" rx="3" fill="#1e293b"/>
     <rect x="635" y="190" width="100" height="6" rx="3" fill="#10b981"/>
 
-    <text x="790" y="225" class="font-mono" font-size="10" fill="#334155" text-anchor="end">custom generated</text>
+    <text x="790" y="225" class="font-mono" font-size="10" fill="#334155" text-anchor="end">custom generated • live</text>
 </svg>
