@@ -24,44 +24,55 @@
 
 <br>
 
-## ⚡ About Me
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3 align="center">⚡ About Me</h3>
+      <br>
+      <blockquote>
+        <p>I design and build <b>production-grade data platforms</b> and <b>high-throughput distributed systems</b>. My focus is on creating resilient architectures, intelligent workflows, and seamless analytics experiences that scale.</p>
+      </blockquote>
+      <br>
+      <ul>
+        <li>🔭 Currently building <b>Decision Intelligence Platforms</b></li>
+        <li>💡 Deep-diving into <b>Advanced Analytics</b>, <b>Data Engineering</b>, and <b>AI</b></li>
+        <li>🤝 Always open to discussing <b>System Design</b> and <b>Data Infrastructure</b></li>
+        <li>⚡ <b>Fun fact</b>: I write my best code between 5 – 7 AM ☕</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3 align="center">🛠️ Tech Arsenal</h3>
+      <br>
+      <div align="center">
+        <code>Languages</code><br>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,cpp&theme=dark" /></a>
+        <br><br>
+        <code>Frameworks & Tools</code><br>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi,docker&theme=dark" /></a>
+        <br><br>
+        <code>Infrastructure & Data</code><br>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,gcp&theme=dark" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
-I design and build **production-grade AI platforms** and **high-throughput distributed systems**. My focus is on creating resilient architectures, seamless developer experiences, and agentic workflows that scale.
+<br><br>
 
-- 🔭 Currently architecting **Agentic Workflows** and **LLM Orchestration** pipelines
-- 💡 Deep-diving into **Vector Databases**, **Next.js App Router**, and **Kubernetes**
-- 🤝 Always open to discussing **System Design**, **AI infrastructure**, and **Backend Scaling**
-- ⚡ **Fun fact**: I write my best code between 5 – 7 AM ☕
-
-<br>
-
-## 🛠️ Engineering Arsenal
+<h2 align="center">🚀 Featured Architecture</h2>
 
 <div align="center">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,cpp&theme=dark" alt="Languages" />
+  <a href="https://github.com/atul-kumar-choudhary/decision-intelligence-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=decision-intelligence-platform&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" width="49%" alt="Decision Intelligence Platform" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi,docker&theme=dark" alt="Frameworks & Tools" />
+  <a href="https://github.com/atul-kumar-choudhary/product-growth-intelligence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=product-growth-intelligence&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" width="49%" alt="Product Growth Intelligence" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,gcp&theme=dark" alt="Databases & Infra" />
-  </a>
-</p>
-
 </div>
 
-<br>
+<br><br>
 
-## 📈 GitHub Analytics
+<h2 align="center">📈 GitHub Analytics & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" alt="GitHub Stats" width="49%" />
@@ -74,7 +85,18 @@ I design and build **production-grade AI platforms** and **high-throughput distr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar-choudhary&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=8b949e" alt="Top Languages" width="60%" />
 </div>
 
-<br>
+<br><br>
+
+<h2 align="center">🐍 Contribution Graph</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br><br>
 
 ---
 
