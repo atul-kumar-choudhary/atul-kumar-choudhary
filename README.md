@@ -1,157 +1,285 @@
-<div align="left">
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  PREMIUM GITHUB PROFILE README                               ║
+  ║  Setup: create a repo named exactly like your username,      ║
+  ║  drop this file in as README.md, then find & replace:        ║
+  ║    • atul-kumar-choudhary  → your GitHub username                   ║
+  ║    • other links / numbers / repo names → your own           ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-<h1>Atul Kumar Choudhary</h1>
-<p style="color:#8b949e; font-size:14px">
-  Full Stack AI Engineer | Cloud & AI | Remote / US
-</p>
-<p style="color:#c9d1d9; font-size:14px">
-  Crafting scalable distributed systems, pioneering innovative AI solutions, and building the future of software.<br>
-  (Python • TypeScript • Next.js • FastAPI • AWS)
-</p>
+<!-- ═════════════════════════ HEADER ═════════════════════════ -->
 
-<p style="color:#8b949e; font-size:13px; margin-top:20px; margin-bottom:20px;">
-  <span style="border-bottom: 2px solid #58a6ff; padding-bottom:5px; color:#c9d1d9;">🏠 README</span> &nbsp;&nbsp;&nbsp;&nbsp; 🚀 Projects &nbsp;&nbsp;&nbsp;&nbsp; 🛠 Tech Stack &nbsp;&nbsp;&nbsp;&nbsp; 📝 Blog &nbsp;&nbsp;&nbsp;&nbsp; ✉️ Contact
-</p>
+<div align="center">
 
-<hr style="border-color: #21262d;">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d419d,100:58a6ff&height=190&section=header&text=Atul%20Kumar%20Choudhary&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20AI%20Engineer%20%7C%20Cloud%20%26%20AI%20%7C%20San%20Francisco%2C%20CA&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
 
-<p align="right" style="font-size:13px;">
-  <a href="https://linkedin.com/in/atulkumarchoudhary" style="text-decoration:none; color:#58a6ff;">in LinkedIn</a><br>
-  <a href="https://github.com/atul-kumar-choudhary" style="text-decoration:none; color:#58a6ff;">🐙 GitHub</a><br>
-  <a href="#" style="text-decoration:none; color:#58a6ff;">🌐 Website</a><br>
-  <a href="#" style="text-decoration:none; color:#58a6ff;">📄 CV</a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Crafting+scalable+distributed+systems;Pioneering+innovative+AI+solutions;Building+the+future+of+software" alt="Typing SVG" />
 
-<h2 style="margin-top:-90px;">👋 Hello World!</h2>
-<p style="color:#8b949e; font-size:14px; line-height:1.5; width: 60%;">
-  Our mission statement to building innovation, AI architectures, and professional links to present an elite software engineer.
-</p>
+<sub><b>Go</b> &nbsp;•&nbsp; <b>Rust</b> &nbsp;•&nbsp; <b>Python</b> &nbsp;•&nbsp; <b>Kubernetes</b> &nbsp;•&nbsp; <b>AWS</b></sub>
 
-<br>
+<br/>
 
-<p align="right" style="color:#8b949e; font-size:13px; margin-bottom:-30px;">2,841 Contributions in 2024</p>
-<h2>🚀 Contribution Graph</h2>
+<!-- Navigation tabs -->
+<a href="#-hello-world"><img src="https://img.shields.io/badge/📖_README-0d1117?style=for-the-badge&labelColor=161b22&color=58a6ff" alt="README" /></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/🚀_Projects-0d1117?style=for-the-badge&labelColor=161b22&color=30363d" alt="Projects" /></a>
+<a href="#%EF%B8%8F-tech-stack--skills"><img src="https://img.shields.io/badge/🛠️_Tech_Stack-0d1117?style=for-the-badge&labelColor=161b22&color=30363d" alt="Tech Stack" /></a>
+<a href="#-blog-posts"><img src="https://img.shields.io/badge/📝_Blog-0d1117?style=for-the-badge&labelColor=161b22&color=30363d" alt="Blog" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/📇_Contact-0d1117?style=for-the-badge&labelColor=161b22&color=30363d" alt="Contact" /></a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</p>
+</div>
 
-<br>
+<br/>
 
-<h2>🛠 Tech Stack & Skills</h2>
+<!-- ═════════════════════════ HELLO WORLD ═════════════════════════ -->
 
-<p>
-  <b style="color:#c9d1d9">Languages:</b><br>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=58a6ff&color=000000" />
-</p>
+## 👋 Hello World!
 
-<p>
-  <b style="color:#c9d1d9">Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=chainlink&logoColor=58a6ff&color=000000" />
-</p>
+<table>
+<tr>
+<td width="68%" valign="top">
 
-<p>
-  <b style="color:#c9d1d9">Infrastructure:</b><br>
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat&logo=amazonaws&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat&logo=githubactions&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=58a6ff&color=000000" />
-</p>
+Our mission statement to building innovation, AI the outcomes, and professional links to present an elite software engineer.
 
-<p>
-  <b style="color:#c9d1d9">Databases:</b><br>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=58a6ff&color=000000" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=58a6ff&color=000000" />
-</p>
+I design and ship **high-throughput distributed platforms** and **production-grade AI systems** — with a relentless focus on reliability, performance and developer experience.
 
-<br>
+- 🔭 Currently building **Agentic Workflow Runner**, a distributed compute platform
+- 🧠 Exploring **LLM orchestration** & **ML automation** at scale
+- 🌱 Deep-diving into **Rust async runtimes** & **eBPF observability**
+- 💬 Ask me about **system design**, **Go**, **Kubernetes**, **AI infra**
+- ⚡ Fun fact: I write my best code between 5 – 7 AM ☕
 
-<h2>Featured Projects</h2>
+</td>
+<td width="32%" valign="top" align="left">
 
-<blockquote>
-<p>
-  <b style="color:#58a6ff">❖ [WorkflowRunner]</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#e3b341">⭐ 3.2k</span><br>
-  <b style="color:#c9d1d9; font-size:13px">Autonomous multi-agent orchestration</b><br>
-  <span style="color:#8b949e; font-size:13px">Generates step-by-step DAG task plans and executes self-correcting code analysis.</span><br>
-  <img src="https://img.shields.io/badge/Python-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=flat&color=000000" />
-  <br>
-  <span style="color:#8b949e; font-size:12px">☆ 3.2k &nbsp;&nbsp; 🍴 1.5k &nbsp;&nbsp; 👁 27k</span>
-</p>
-</blockquote>
+<a href="https://linkedin.com/in/atul-kumar-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br/>
+<a href="https://github.com/atul-kumar-choudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a><br/>
+<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a><br/>
+<a href="https://your-website.com/cv.pdf"><img src="https://img.shields.io/badge/CV-238636?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" /></a>
 
-<blockquote>
-<p>
-  <b style="color:#58a6ff">❖ [EnterpriseRAG]</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#e3b341">⭐ 2.1k</span><br>
-  <b style="color:#c9d1d9; font-size:13px">Hybrid documentation search engine</b><br>
-  <span style="color:#8b949e; font-size:13px">Combines BM25 keyword matching with dense OpenAI text embeddings in Pinecone.</span><br>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&color=000000" />
-  <br>
-  <span style="color:#8b949e; font-size:12px">☆ 2.1k &nbsp;&nbsp; 🍴 1.1k &nbsp;&nbsp; 👁 73k</span>
-</p>
-</blockquote>
+</td>
+</tr>
+</table>
 
-<blockquote>
-<p>
-  <b style="color:#58a6ff">❖ [NeuralFlow]</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#e3b341">⭐ 1.8k</span><br>
-  <b style="color:#c9d1d9; font-size:13px">MLOps automation tool</b><br>
-  <span style="color:#8b949e; font-size:13px">MLOps automation tool spanning and standardizing logical tasks for the automated tool.</span><br>
-  <img src="https://img.shields.io/badge/React-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=flat&color=000000" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&color=000000" />
-  <br>
-  <span style="color:#8b949e; font-size:12px">☆ 1.8k &nbsp;&nbsp; 🍴 1.5k &nbsp;&nbsp; 👁 27k</span>
-</p>
-</blockquote>
+<br/>
 
-<br>
+<!-- ═════════════════════════ CONTRIBUTION GRAPH ═════════════════════════ -->
 
-<h2>Blog Posts</h2>
+## 🚀 Contribution Graph
 
-<p>
-  <b style="color:#58a6ff">Intracting frontiare on Volkov</b><br>
-  <span style="color:#8b949e; font-size:13px">Scalable distributed systems, pioneering AI solutions, and building the future of software orchestration.</span>
-</p>
+<div align="center">
 
-<p>
-  <b style="color:#58a6ff">Pespire for adveved innovation</b><br>
-  <span style="color:#8b949e; font-size:13px">Promises the a path to convention removal. AI knowledge retrieval using dimensional embeddings.</span>
-</p>
+<img src="https://ghchart.rshah.org/39d353/atul-kumar-choudhary" alt="Contribution graph" width="100%" />
 
-<p>
-  <b style="color:#58a6ff">Standiorsion to Sondactumor</b><br>
-  <span style="color:#8b949e; font-size:13px">Atul Kumar is actively migrating functionality and standardizing macro trends with cross-business logic.</span>
-</p>
+<sub>📅 <b>2,841 contributions in 2024</b> &nbsp;•&nbsp; Less ⬛ 🟩 🟢 <b>More</b></sub>
 
-<br>
-<hr style="border-color: #21262d;">
+<br/><br/>
 
-<p align="right" style="font-size:13px;">
-  <a href="https://linkedin.com/in/atulkumarchoudhary" style="text-decoration:none; color:#58a6ff;">in LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:#58a6ff;">🌐 Website</a><br>
-  <a href="https://github.com/atul-kumar-choudhary" style="text-decoration:none; color:#58a6ff;">🐙 GitHub</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#" style="text-decoration:none; color:#58a6ff;">✉️ Contact</a>
-</p>
-<p style="margin-top:-50px; font-size:13px; color:#8b949e;">
-  📞 +91 1234 567890<br>
-  ✉️ dev@atulchoudhary.com
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-choudhary&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF" height="150" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" height="150" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar-choudhary&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" height="150" alt="Top languages" />
 
-<p align="center" style="color:#8b949e; font-size: 12px; margin-top:50px;">
-  © 2024 Atul Kumar Choudhary. Built with ❤️ on GitHub.
-</p>
+</div>
+
+<br/>
+
+<!-- ═════════════════════════ TECH STACK ═════════════════════════ -->
+
+## 🛠️ Tech Stack & Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+
+</td>
+<td width="50%" valign="top">
+
+**Frameworks**
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+<img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="gRPC" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Infrastructure**
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+
+</td>
+<td width="50%" valign="top">
+
+**Databases**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═════════════════════════ FEATURED PROJECTS ═════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<!-- Project 1 -->
+<td width="33%" valign="top">
+
+### 📦 [Agentic Workflow Runner](https://github.com/atul-kumar-choudhary/Agentic Workflow Runner)
+**Distributed compute platform**
+
+Distributed compute platform: sale, and technical planning.
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+⭐ **3.2k** &nbsp; 🍴 **39** &nbsp; 👁️ **27k**
+
+</td>
+<!-- Project 2 -->
+<td width="33%" valign="top">
+
+### 🗄️ [Enterprise RAG Search](https://github.com/atul-kumar-choudhary/Enterprise RAG Search)
+**Rust-based NoSQL engine**
+
+Rust-based NoSQL engine, developed serverless-ready.
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+⭐ **2.1k** &nbsp; 🍴 **2.7k** &nbsp; 👁️ **7.5k**
+
+</td>
+<!-- Project 3 -->
+<td width="33%" valign="top">
+
+### 🧠 [AI Agentic Workflow Runner](https://github.com/atul-kumar-choudhary/AI Agentic Workflow Runner)
+**MLOps automation tool**
+
+MLOps automation tool operating and fine-tune the automate app.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+
+⭐ **1.8k** &nbsp; 🍴 **5.9k** &nbsp; 👁️ **27k**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📌 Live pinned repositories (auto-updating)</b></summary>
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/atul-kumar-choudhary/Agentic Workflow Runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=Agentic Workflow Runner&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" /></a>
+<a href="https://github.com/atul-kumar-choudhary/Enterprise RAG Search"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=Enterprise RAG Search&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" /></a>
+<a href="https://github.com/atul-kumar-choudhary/AI Agentic Workflow Runner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=AI Agentic Workflow Runner&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" /></a>
+
+</div>
+
+</details>
+
+<br/>
+
+<!-- ═════════════════════════ BLOG POSTS ═════════════════════════ -->
+
+## 📝 Blog Posts
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### [Architecting Distributed AI Agents](https://your-website.com/blog/frontiers)
+Seamlessly distributed systems, pioneering AI solutions, and building the future of software (scenario...
+
+<sub>🔗 Read more →</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### [Principles of Vector Search](https://your-website.com/blog/innovation)
+Promises this a particular for connection oversaw AI knowledge search unop mindelement of apps...
+
+<sub>🔗 Read more →</sub>
+
+</td>
+<td width="33%" valign="top">
+
+#### [Next.js App Router Migrations](https://your-website.com/blog/standoosion)
+Atul Kumar Choudhary is peer-reviewed trying tutorials and standard tools; an innovator blend of...
+
+<sub>🔗 Read more →</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- Optional: auto-updating latest posts via GitHub Action (blog-post-workflow)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+-->
+
+<br/>
+
+<!-- ═════════════════════════ CONTACT ═════════════════════════ -->
+
+## 📇 Contact
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📞 &nbsp;**+91 1234 567890**<br/>
+✉️ &nbsp;**[dev@atulchoudhary.com](mailto:dev@atulchoudhary.com)**
+
+</td>
+<td width="50%" valign="top" align="right">
+
+<a href="https://linkedin.com/in/atul-kumar-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://github.com/atul-kumar-choudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:dev@atulchoudhary.com"><img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+</td>
+</tr>
+</table>
+
+<!-- ═════════════════════════ FOOTER ═════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:0d419d,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
+
+<sub>© 2024 Atul Kumar Choudhary. Built with ❤️ on GitHub.</sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=atul-kumar-choudhary&label=Profile%20views&color=58a6ff&style=flat-square" alt="Profile views" />
 
 </div>
