@@ -1,105 +1,44 @@
 <div align="center">
 
-<!-- Futuristic Waving Header with Built-in Name and Role -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=280&section=header&text=Atul%20Kumar%20Choudhary&fontSize=50&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20AI%20Engineer&descSize=20&descAlignY=62&descColor=94a3b8" width="100%" alt="Header Banner" />
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>atul@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Atul's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
-
-<p align="center">
-  <a href="https://atulchoudhary.com">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/atulkumarchoudhary">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/atul-kumar-choudhary">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:dev@atulchoudhary.com">
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
-
 <br>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">⚡ About Me</h3>
-      <br>
-      <blockquote>
-        <p>I design and build <b>production-grade data platforms</b> and <b>high-throughput distributed systems</b>. My focus is on creating resilient architectures, intelligent workflows, and seamless analytics experiences that scale.</p>
-      </blockquote>
-      <br>
-      <ul>
-        <li>🔭 Currently building <b>Decision Intelligence Platforms</b></li>
-        <li>💡 Deep-diving into <b>Advanced Analytics</b>, <b>Data Engineering</b>, and <b>AI</b></li>
-        <li>🤝 Always open to discussing <b>System Design</b> and <b>Data Infrastructure</b></li>
-        <li>⚡ <b>Fun fact</b>: I write my best code between 5 – 7 AM ☕</li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="center">🛠️ Tech Arsenal</h3>
-      <br>
-      <div align="center">
-        <code>Languages</code><br>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,ts,js,go,rust,cpp&theme=dark" /></a>
-        <br><br>
-        <code>Frameworks & Tools</code><br>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,fastapi,docker&theme=dark" /></a>
-        <br><br>
-        <code>Infrastructure & Data</code><br>
-        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kubernetes,aws,gcp&theme=dark" /></a>
-      </div>
-    </td>
-  </tr>
+<!-- whoami terminal card (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     bio:  python scripts/render_bio_svg.py
+     stats: python scripts/render_stats_svg.py (same daily workflow)
+     want an animated ASCII portrait instead of the bio card? run:
+     python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     then point the left <img> at ./atul-ascii.svg -->
+
+<h3><code>atul@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./bio.svg" width="420" alt="Atul Kumar Choudhary — whoami terminal card" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Atul's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
 </table>
 
-<br><br>
+<br>
+<br>
 
-<h2 align="center">🚀 Featured Architecture</h2>
+<h3><code>atul@github ~ $ ./links.sh</code></h3>
 
-<div align="center">
-  <a href="https://github.com/atul-kumar-choudhary/decision-intelligence-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=decision-intelligence-platform&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" width="49%" alt="Decision Intelligence Platform" />
-  </a>
-  <a href="https://github.com/atul-kumar-choudhary/product-growth-intelligence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=atul-kumar-choudhary&repo=product-growth-intelligence&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" width="49%" alt="Product Growth Intelligence" />
-  </a>
-</div>
+<p><b>Full-Stack AI Engineer · Data Platforms · Distributed Systems</b></p>
 
-<br><br>
-
-<h2 align="center">📈 GitHub Analytics & Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul-kumar-choudhary&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=8b949e" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul-kumar-choudhary&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&ring=38BDF8&fire=38BDF8&text_color=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" width="49%" />
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-atulchoudhary.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://atulchoudhary.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atulkumarchoudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atulkumarchoudhary)
+[![GitHub](https://img.shields.io/badge/GitHub-atul--kumar--choudhary-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atul-kumar-choudhary)
+[![Email](https://img.shields.io/badge/Contact-dev%40atulchoudhary.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@atulchoudhary.com)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-kumar-choudhary&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=8b949e" alt="Top Languages" width="60%" />
-</div>
-
-<br><br>
-
-<h2 align="center">🐍 Contribution Graph</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atul-kumar-choudhary/atul-kumar-choudhary/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br><br>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=atul-kumar-choudhary&label=Profile%20views&color=38BDF8&style=flat-square" alt="Profile views" />
 </div>

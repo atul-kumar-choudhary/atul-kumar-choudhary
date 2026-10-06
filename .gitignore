@@ -14,3 +14,14 @@ crash.log
 
 # For built boxes
 *.box
+
+# template used to bootstrap this profile
+AVIVASHISHTA29-main/
+
+# python
+__pycache__/
+*.pyc
+
+# local photo inputs for the optional ASCII portrait panel
+source-photo.png
+source-prepped.png
